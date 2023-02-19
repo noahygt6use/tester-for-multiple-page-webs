@@ -1,0 +1,44 @@
+        /*this is a css comment, ver nice */
+
+        body
+
+        /*this puts css onto my body*/
+            {
+            background-color: aquamarine;
+
+        }
+
+        /*this is for my tuttut div */
+        .tuttut {
+            background-color: rgb(237, 0, 255);
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+            width: 600px;
+            height: 300px;
+            margin: 25px;
+            padding: 8px;
+            border-radius: 10px;
+
+        }
+
+        /*this is my css for my stufstuf div */
+        .stufstuf {
+            background-color: rgb(151, 0, 157);
+            font-family: 'Franklin Gothic Medium';
+            width: 600px;
+            height: 300px;
+            margin: 25px;
+            border-radius: 25px;
+            border-color: saddlebrown;
+            /*needs to be fixed later, border color is broken*/
+        }
+
+        p {
+            /*this css is for my paragraph farther below */
+            color: darkkhaki;
+        }
+
+        /*this puts css onto my images in my stuff*/
+        img {
+            width: auto;
+            height: auto;
+        }
